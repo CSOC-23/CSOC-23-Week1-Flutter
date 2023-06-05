@@ -151,9 +151,7 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 
 ## Submissions
 
-- Example:
-- Name: Manash Kumar
-- GitHub Repository - github link of repository
-- .apk file - File link can be google drive or anything else
+<!-- Add you name in below list as -->
+<!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
+<!-- - Manash Kumar - [Hangman](https://github.com/SagittariusA11/Hangman) [APK](https://github.com/SagittariusA11/Hangman/blob/master/Hangman.apk) -->
 
-#### List your submissions from here
