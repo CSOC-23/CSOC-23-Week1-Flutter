@@ -145,13 +145,13 @@ Remember, the deadline for this week's task is **June 11th, 2023, 23:59**.
 Submission has to be done by sharing your github repo link and the .apk file of your application
 
 - Fork and then Clone your repository
-- Make a new entry into submissions (Link of your repositor and .apk of the app)
+- Make a new entry into submissions (Link of your repositor and .apk of the app) as in the comments
 - Commit and Push the changes
 - Make a Pull request
 
 ## Submissions
 
-- Add you name in below list as
-- Your Name - [Repo Name](Link) [APK](APK Link)
-- Manash Kumar - [Hangman](https://github.com/SagittariusA11/Hangman) [APK](https://github.com/SagittariusA11/Hangman/blob/master/Hangman.apk)
+<!-- - Add you name in below list as -->
+<!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
+<!-- - Manash Kumar - [Hangman](https://github.com/SagittariusA11/Hangman) [APK](https://github.com/SagittariusA11/Hangman/blob/master/Hangman.apk) -->
 
