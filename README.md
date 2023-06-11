@@ -155,3 +155,5 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Manash Kumar - [Hangman](https://github.com/SagittariusA11/Hangman) [APK](https://github.com/SagittariusA11/Hangman/blob/master/Hangman.apk) -->
 
+1.Shinjan Tyagi-[Hangmans](https://github.com/Shinjan289/Hangmans)[APK]
+(https://github.com/Shinjan289/Hangmans/blob/main/app-release.apk)
