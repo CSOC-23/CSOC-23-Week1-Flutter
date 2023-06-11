@@ -151,5 +151,5 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 
 ## Submissions
 <!-- - Add you name in below list as -->
-- Priyansh Sahu - [Calculator]([Link](https://github.com/thepriyansh01/Calculator)) [APK]([APK Link](https://drive.google.com/file/d/1UT37jITYWZtgTchG9wOH7lz2t5Lg1V17/view?usp=sharing))
+- Priyansh Sahu - [Calculator][Link](https://github.com/thepriyansh01/Calculator) [APK]([APK Link](https://drive.google.com/file/d/1UT37jITYWZtgTchG9wOH7lz2t5Lg1V17/view?usp=sharing))
 <!-- - Manash Kumar - [Hangman](https://github.com/SagittariusA11/Hangman) [APK](https://github.com/SagittariusA11/Hangman/blob/master/Hangman.apk) -->
