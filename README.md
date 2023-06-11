@@ -154,4 +154,5 @@ Submission has to be done by sharing your github repo link and the .apk file of 
 <!-- - Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [APK](APK Link) -->
 <!-- - Manash Kumar - [Hangman](https://github.com/SagittariusA11/Hangman) [APK](https://github.com/SagittariusA11/Hangman/blob/master/Hangman.apk) -->
+<!-- - Pratik Tripathy - [Calculator-Project](https://github.com/SilverDragonOfR/Calculator-Project) [APK](https://github.com/SilverDragonOfR/Calculator-Project/blob/main/Calculator.apk) -->
 
