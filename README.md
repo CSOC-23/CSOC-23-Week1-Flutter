@@ -138,7 +138,7 @@ The evaluation would be done mainly on the following basis:
 3. Completion of mentioned tasks
 4. Bonus Points for implementing extra features depending on your creativity😉
 
-Remember, the deadline for this week's task is **June 11th, 2023, 23:59**.
+Remember, the deadline for this week's task is **June 18th, 2023, 23:59**.
 
 ## Submission Guidelines :
 
